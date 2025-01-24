@@ -9,7 +9,8 @@ class ErrorThrow extends Component {
         <ErrorBoundary>
         <Hero heroName="batsMan"/>
         <Hero heroName="superMan"/>
-        {/* <Hero heroName="joker"/> */}
+       
+       {/* <Hero heroName="joker"/> */}
         </ErrorBoundary>
       </div>
     )
